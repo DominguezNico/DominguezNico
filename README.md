@@ -28,8 +28,8 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,javascript,css,ps,ai,express,styledcomponents,java,androidstudio,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,postgres,mysql,redis,cassandra,html,linux,vscode,heroku,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,github,python,javascript,css,html,ps,ai,styledcomponents,java,androidstudio,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,postgres,mysql,redis,cassandra,express,linux,vscode,heroku,netlify,figma" />
 
   </a>
 </p>
