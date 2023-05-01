@@ -7,7 +7,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Nicolás Dominguez, Full Stack Developer 👨‍💻
+  Hi, I'm Nicolás Domínguez, Full Stack Developer 👨‍💻
   <br>
   <br>
   💻  See my portfolio at <a href="http://nicodominguez.com"> nicodominguez.com</a>
