@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://github.com/DominguezNico?tab=repositories">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Nicolás+Dominguez!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Nicolás+Domínguez!;&center=true&size=30">
   </a>
 </h1>
 
